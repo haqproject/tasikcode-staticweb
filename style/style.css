@@ -271,4 +271,14 @@ h3{
     .partner-card{
         width: 50%;
     }
+    
+    .footer{
+        display: block;
+    }
+    .footer-section{
+        text-align: center;
+        display: block;
+        width: 100%;
+        height: auto;
+    }
 }
